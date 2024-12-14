@@ -1,4 +1,5 @@
 ###🌟 Mari | Data Explorer
+
 Hi there! 👋 I'm Mari, a passionate data analyst . With a strong foundation in mathematics and a love for storytelling through data, I thrive on uncovering insights and transforming them into actionable solutions.
 
 ### 📊 What I Do
